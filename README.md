@@ -1,5 +1,4 @@
-<body>
-
+<body
 <header class="site-header">
   <div class="header-left">
     <button class="menu-toggle" aria-label="Open menu">
@@ -25,3 +24,4 @@
     <a href="#contact">CONTACT</a>
   </nav>
 </header>
+>
